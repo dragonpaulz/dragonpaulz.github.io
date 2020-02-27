@@ -6,7 +6,7 @@
             "type": "chrome",
             "request": "attach",
             "port": 9222,
-            "url": "<url of the open browser tab to connect to>",
+            "url": "https://localhost",
             "webRoot": "${workspaceFolder}/out"
         }
     ]
